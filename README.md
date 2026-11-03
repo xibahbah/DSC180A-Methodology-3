@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Keith Gong
-Solo exercise — comments checkout
+Keith Gong (solo; no Partner B)
